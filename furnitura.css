@@ -1,0 +1,102 @@
+.zagolovok {
+    color: #ffffff;
+    font-size: 1.5em;
+    padding-left: 40%;
+    margin-left: 0%;
+    font-weight: 750;
+    display: block;
+    max-width: 100%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+.text1 {
+    text-indent: 3.5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-weight: 500;
+    display: block;
+    float:left;
+    max-width: 96%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block2 {
+    margin-top:0.5%;
+}
+.text2 {
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    padding-right: 2%;
+    font-weight: 500;
+    display: block;
+    float:left;
+    max-width: 69%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block2 img {
+    max-width: 27%;
+}
+#akcent1 {
+    color: #ce9b42;
+    font-size: 1.3em;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-weight: 700;
+}
+.text3{
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-weight: 500;
+    display: block;
+    max-width: 96%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    line-height: 1.6em;
+    text-align: justify; 
+}
+.text4{
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-weight: 500;
+    display: block;
+    max-width: 96%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    line-height: 1.6em;
+    text-align: justify; 
+}
+.block3 img {
+width: 100%;
+}
+.block4 img {
+    max-width:24.5%;
+}
+.text5{
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-weight: 500;
+    display: block;
+    max-width: 96%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    line-height: 1.6em;
+    text-align: justify; 
+}

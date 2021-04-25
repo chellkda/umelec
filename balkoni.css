@@ -1,0 +1,129 @@
+.zagolovok {
+    color: #ffffff;
+    font-size: 1.5em;
+    padding-left: 35%;
+    margin-left: 0%;
+    font-weight: 750;
+    display: block;
+    max-width: 100%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+.block1{
+    margin-top: 0.5%;
+    height: 30px; 
+}
+.text1 {
+    text-indent: 3.5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-weight: 500;
+    display: block;
+  
+    max-width: 96%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block2 {
+    margin-top:0.5%;
+    height: 290px;
+}
+#akcent1 {
+    text-indent: 3%; 
+    margin-left: 2%;
+    color: #ce9b42;
+    font-size: 1.3em;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    font-weight: 700;
+    width: 100%;
+    float: left;
+}
+.text2 {
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    padding-right: 2%;
+    font-weight: 500;
+    display: block;
+    float: left;
+    max-width: 68%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block2 img {
+    max-width: 30%;
+}
+.block3 {
+    margin-top: 0.5%;
+}
+#akcent2 {
+    text-indent: 3%; 
+    margin-left: 2%;
+    color: #ce9b42;
+    font-size: 1.3em;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    font-weight: 1000;
+    width: 100%;
+    float: right;
+}
+.text3{
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-weight: 500;
+    display: block;
+    float: right;
+    max-width: 66%;
+    margin-bottom: 1%;
+    margin-top: 0.5%;
+    line-height: 1.6em;
+    text-align: justify; 
+}
+.block3 img {
+    width: 30%;
+   
+}
+#akcent1 {
+    text-indent: 3%; 
+    margin-left: 2%;
+    color: #ce9b42;
+    font-size: 1.3em;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    font-weight: 700;
+    width: 100%;
+    float: left;
+}
+.block4 {
+    margin-top: 0.5%;
+    height: 50px;
+}
+.text4{
+    text-indent: 3%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-weight: 500;
+    display: block;
+    float: left;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1%;
+    margin-top: 0.5%;
+    line-height: 1.6em;
+}
+#insta2 {
+    padding-right: 2%;
+}

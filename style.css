@@ -1,0 +1,163 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+    box-sizing: border-box;
+}
+html {height: 100%}
+body {
+    background-color: #232221;
+    margin: 0;
+    max-width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+.Wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: block;
+    
+}
+.main {
+    display: block;
+    max-width: 1200px;
+    box-sizing: content-box;
+}
+.polovina1 {
+    margin-left: 0.5%;
+    max-width: 61.5%;
+    display: block;
+    float: left;
+}
+#prof{
+    color: #ffffff;
+	text-decoration: none;
+    font-size: 1.0em;
+    font-weight: 600;
+}
+a {
+	color: #ffffff;
+	text-decoration: none;
+    margin-top: 20px;
+    font-size: 1.0em;
+    font-weight: 600;
+    line-height: 1px;
+}
+a:hover {
+	color: #ce9b42;
+	text-decoration: none;
+	transition: all.6s ease;
+}
+a:active {color: #ce9b42}
+header {
+	max-width: 100%;
+    float: center;
+}
+header img {
+    max-width: 1200px;
+}
+.questions {
+    color: #ffffff;
+    font-size: 1.5em;
+    padding-left: 3%;
+    margin-left: 0%;
+    font-weight: 750;
+    display: block;
+    max-width: 100%;
+}
+.questions #questourwork{
+    margin-left: 15%;
+}
+.ourwork {
+    color: #ffffff;
+    margin-left: 25%;
+    margin-bottom: 1%;
+    margin-top: 3%;
+    display: block;
+}
+.li1{
+    color: #ce9b42;
+    font-size: 0.8em;
+}
+.queslist {
+    color: #ffffff;
+    font-size: 1em;
+    line-height: 1.8em;
+    max-width: 100%;
+    padding-left: 1%;
+    display: block;
+    font-weight: 300;
+}
+#izpunktov1 {
+    color: #ce9b42;
+    font-size: 1.6em;
+    line-height: 1.1em;
+    margin-top: 1%;
+    margin-left: 2%;
+    display: block;
+    font-weight: 750;
+    max-width: 100%;
+}
+#menu {
+    font-size: 1.5em;
+    font-weight: 750;
+    display: flex;
+    padding-left: 2%;
+    margin-top: 2%;
+}
+
+#menu1 {
+    display: flex;
+    width: 48%;
+    float: left;
+    margin-left: 2%;
+    
+}
+#menu2 {
+    width: 45%;
+    display: flex;
+    float: right;
+    margin-left: 3%;
+    margin-right: 2%;
+    
+}
+.ul2 {
+    color: #ce9b42;
+    line-height: 10px;
+    margin: 0px;
+    padding-top: 1%;
+}
+
+li {
+    display: list-item;
+}
+.dotcolor {
+    color: #ce9b42;
+    line-height: 35px;
+    padding-top: 5px;
+    font-size: 16px;
+}
+.polovina2 {
+    max-width: 38%;
+    display: flex;
+    
+}
+.balkoni_img img {
+    width: 100%;
+}
+footer {
+	border-top: 1px solid silver;
+	margin-top: 5%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    bottom: 0;
+    max-width: 1200px;
+   
+}
+.contacts {
+    font-weight: 500;
+    font-size: 1.1em;
+    line-height: 1.3em;
+    color: #ffffff;
+    margin-left:1%;
+    display: block;
+}

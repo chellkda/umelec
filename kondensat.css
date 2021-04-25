@@ -1,0 +1,195 @@
+.zagolovok {
+    color: #ffffff;
+    font-size: 1.5em;
+    padding-left: 40%;
+    margin-left: 0%;
+    font-weight: 750;
+    display: block;
+    max-width: 100%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+.block1{
+    margin-top: 0.5%;
+    height: 210px; 
+}
+.text1 {
+    text-indent: 3.5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-weight: 500;
+    display: block;
+  
+    max-width: 96%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block2 {
+    margin-top:0.5%;
+    height: 250px;
+}
+.text2 {
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    padding-right: 2%;
+    font-weight: 500;
+    display: block;
+    max-width: 100%;
+    margin-bottom: -2%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block2_1{
+    max-width: 70%;
+    float: left;
+}
+.block2 img {
+   
+    max-width: 30%;
+    float: right;
+}
+.block3 {
+    margin-top: 0.5%;
+}
+.text3{
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-weight: 500;
+    display: block;
+    float: right;
+    max-width: 71%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    line-height: 1.6em;
+    text-align: justify; 
+}
+.block3 img {
+    width: 25%;
+   
+}
+#akcent1 {
+    text-indent: 3%; 
+    margin-left: 2%;
+    color: #ce9b42;
+    font-size: 1.3em;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    font-weight: 700;
+    width: 100%;
+    float: left;
+}
+.block4 {
+    margin-top:0.5%;
+    height: 310px;
+}
+.text4 {
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    padding-right: 2%;
+    font-weight: 500;
+    display: block;
+    float:left;
+    max-width: 61%;
+    margin-bottom: 1%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block4 img {
+    margin-top:0.5%;
+    max-width: 35%;
+}
+#akcent2 {
+    text-indent: 5%; 
+    color: #ce9b42;
+    font-size: 1.0em;
+    margin-bottom: 1%;
+    font-weight: 700;
+    
+}
+.block5 {
+    margin-top:1%;
+    height: 450px; 
+}
+.text5 {
+    text-indent: 4%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    padding-right: 2%;
+    font-weight: 500;
+    display: block;
+    float:left;
+    max-width: 65%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block5 img {
+ max-width: 31%;
+}
+.block6 {
+    margin-top:1%;
+    height: 500px;
+}
+.text6 {
+    text-indent: 4%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    padding-right: 2%;
+    font-weight: 500;
+    display: block;
+    float:left;
+    max-width: 65%;
+    margin-bottom: 1%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block6 img {
+ max-width: 31%;
+}
+.questions #questourwork{
+    margin-left: 25%;
+    color: #ce9b42;
+}
+.block7 {
+    margin-top:1%;
+    height: 590px;
+}
+ .text7 {
+    text-indent: 4%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    padding-right: 2%;
+    font-weight: 500;
+    display: block;
+    float: right;
+    max-width: 50%;
+    margin-bottom: 1%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block7 img {
+    float: left;
+    max-width: 100%;
+}
+.block8 img {
+    max-width:49%;
+}

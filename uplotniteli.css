@@ -1,0 +1,93 @@
+.zagolovok {
+    color: #ffffff;
+    font-size: 1.5em;
+    padding-left: 40%;
+    margin-left: 0%;
+    font-weight: 750;
+    display: block;
+    max-width: 100%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+.text1 {
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-left: 2%;
+    font-weight: 500;
+    display: block;
+    float:left;
+    max-width: 65%;
+    margin-bottom: 1%;
+    margin-top: 0%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.block1 img {
+    width: 30%;
+    display: block;
+    float: right;
+}
+.block2 {
+    margin-top:1%;
+}
+.block2 img {
+    width: 30%;
+    display: block;
+    float: left;
+    margin-top:1%;
+}
+.text2 {
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-right: 2%;
+    font-weight: 500;
+    display: block;
+    float:right;
+    max-width: 65%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+    line-height: 1.6em;
+    text-align: justify;        /* выравнивание текста по ширине блока */
+}
+.text3{
+    text-indent: 5%;            /* отступ типа (абзац) */
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-right: 2%;
+    margin-left: 2%;
+    font-weight: 500;
+    display: block;
+    float:left;
+    max-width: 96%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+    line-height: 1.6em;
+    text-align: justify; 
+}
+.zagolovok2{
+    color: #ffffff;
+    font-size: 1.5em;
+    padding-left: 0%;
+    margin-left: 0%;
+    font-weight: 750;
+    display: block;
+    max-width: 100%;
+    margin-bottom: 1%;
+    margin-top: 50%;
+}
+#do {
+    margin-left:23%;
+    margin-right:20%;
+}
+#posle {
+    margin-left:0%;
+    margin-right:0%;
+}
+.block4 img {
+    width: 24%;
+}
+footer {
+    margin-top: 10%;
+}
