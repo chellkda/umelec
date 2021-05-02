@@ -19,7 +19,7 @@ body {
 }
 .main {
     display: block;
-    max-width: 1200px;
+    max-width: 720px;
     box-sizing: content-box;
 }
 .polovina1 {
