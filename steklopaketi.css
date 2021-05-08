@@ -48,7 +48,7 @@
     text-align: justify;        /* выравнивание текста по ширине блока */
 }
 .block2 img {
-    max-width: 15%;
+    max-width: 35%;
 }
 .block3 {
     margin-top: 0.5%
@@ -70,7 +70,7 @@
 }
 .block3 img {
     float: left;
-    width: 35%;
+    width: 34%;
    
 }
 #akcent1 {
