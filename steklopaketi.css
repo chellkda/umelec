@@ -69,6 +69,7 @@
     text-align: justify; 
 }
 .block3 img {
+    float: left;
     width: 35%;
    
 }
