@@ -48,7 +48,7 @@
     text-align: justify;        /* выравнивание текста по ширине блока */
 }
 .block2 img {
-    max-width: 36%;
+    max-width: 35%;
 }
 .block3 {
     margin-top: 0.5%
@@ -69,7 +69,7 @@
     text-align: justify; 
 }
 .block3 img {
-    width: 36%;
+    width: 35%;
    
 }
 #akcent1 {
@@ -101,7 +101,7 @@
     text-align: justify;        /* выравнивание текста по ширине блока */
 }
 .block4 img {
-    max-width: 31%;
+    max-width: 30%;
 }
 #akcent2 {
     text-indent: 5%; 
@@ -130,5 +130,5 @@
     text-align: justify;        /* выравнивание текста по ширине блока */
 }
 .block5 img {
-    max-width: 15%;
+    max-width: 14%;
 }
