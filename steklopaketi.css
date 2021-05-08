@@ -48,7 +48,7 @@
     text-align: justify;        /* выравнивание текста по ширине блока */
 }
 .block2 img {
-    max-width: 35%;
+    max-width: 15%;
 }
 .block3 {
     margin-top: 0.5%
