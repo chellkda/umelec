@@ -51,8 +51,8 @@
     max-width: 35%;
 }
 .block3 {
-    margin-top: 1%;
-    padding-top: 1%;
+    margin-top: 2%;
+    padding-top: 2%;
 }
 .text3{
     text-indent: 5%;            /* отступ типа (абзац) */
@@ -71,7 +71,7 @@
 }
 .block3 img {
     float: left;
-    max-width: 20%;
+    max-width: 10%;
 }
 #akcent1 {
     text-indent: 3%; 
