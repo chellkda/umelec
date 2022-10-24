@@ -71,7 +71,8 @@
 }
 .block3 img {
     float: left;
-    max-width: 10%;
+    max-width: 5%;
+    display: block;
 }
 #akcent1 {
     text-indent: 3%; 
